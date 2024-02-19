@@ -6,6 +6,8 @@ public class Main{
         System.out.println("second edit and commit");
 
         System.out.println("Third edit ");
+
+        System.out.println("git ignore edit commit");
     }
 }
 
