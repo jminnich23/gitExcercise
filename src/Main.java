@@ -8,6 +8,8 @@ public class Main{
         System.out.println("Third edit ");
 
         System.out.println("git ignore edit commit");
+
+        System.out.println("now trying to commit to master branch");
     }
 }
 
